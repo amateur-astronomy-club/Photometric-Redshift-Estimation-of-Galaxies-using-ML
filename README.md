@@ -1,0 +1,2 @@
+# Photometric-Redshift-Estimation-of-Galaxies-using-ML
+  This project deals with the determination of redshifts of galaxies from their photometric colours. Galaxies where accurate spectroscopic redshifts have been calculated will be used as gold standard.  This project will make use of flux magnitudes from the Sloan Digital Sky Survey (SDSS) catalogue to create colour indices, which act as an approximation for the spectrum of the object and are useful for classifying stars.
